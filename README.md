@@ -23,7 +23,7 @@ First navigate to your terminal and clone the repository(https://github.com/koke
 
 
 ## Demo
-(assets/gif/note_taker.gif)
+[Demo](assets/gif/note_taker.gif)
 
 
 ## Deployed Link
