@@ -13,10 +13,10 @@ app.use(express.json());
 app.use(express.static("public"));
 
 // Routes
-// require("./routes/apiRoutes")(app);
+require("./routes/apiRoutes")(app);
 require("./routes/htmlRoutes")(app);
 
 // Starts the server to begin listening
 app.listen(PORT, function() {
-    console.log("Note taking app listening on PORT" + PORT);
+  console.log("Note taking app listening on PORT" + PORT);
 });
