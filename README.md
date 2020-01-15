@@ -16,6 +16,10 @@ Homework assignment #8, we are to create a note taking app that allow us to stor
 * [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 * [node](https://nodejs.org/dist/latest-v12.x/docs/api/)
 
+## Installation Guide
+
+First navigate to your terminal and clone the repository. Then install the express dependency. Run server.js in terminal using node. Use browser to run localhost:3000.
+
 
 ## Deployed Link
 
