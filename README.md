@@ -28,7 +28,7 @@ First navigate to your terminal and clone the repository(https://github.com/koke
 
 ## Deployed Link
 
-* [See Live Site]()
+* [See Live Site](https://cryptic-taiga-42262.herokuapp.com/)
 
 
 ## Authors
