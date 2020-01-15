@@ -5,6 +5,7 @@ Homework assignment #8, we are to create a note taking app that allow us to stor
 
 ## Technologies Used
 - HTML
+- CSS
 - Javascript
 - Github
 - Heroku
@@ -18,7 +19,11 @@ Homework assignment #8, we are to create a note taking app that allow us to stor
 
 ## Installation Guide
 
-First navigate to your terminal and clone the repository. Then install the express dependency. Run server.js in terminal using node. Use browser to run localhost:3000.
+First navigate to your terminal and clone the repository(https://github.com/kokevin678/note-taker.git). Then install the express dependency. Run server.js in terminal using node. Use browser to run localhost:3000. 
+
+
+## Demo
+(assets/gif/note_taker.gif)
 
 
 ## Deployed Link
